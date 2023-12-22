@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+
 # coding: utf-8
 
 # In[2]:
@@ -14,7 +14,7 @@ import seaborn as sns
 # In[3]:
 
 
-os.chdir('/users/timothy kamau/downloads')
+os.chdir(r'C:\Users\nyanc\Data-Science-Portfolio-Projects')
 
 
 # In[4]:
@@ -110,5 +110,5 @@ plt.show()
 # In[ ]:
 
 
-Since the linearity and Homoscedasticity are assumptions are not met this implies that the model does not truly explain the relationships between this variables.
+# Since the linearity and Homoscedasticity are assumptions are not met this implies that the model does not truly explain the relationships between this variables.
 
